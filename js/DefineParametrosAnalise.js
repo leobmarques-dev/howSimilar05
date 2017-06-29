@@ -52,7 +52,7 @@ function DefineParametrosAnalise (cabecalho, respostas, diferencas, tipoSaida = 
 
                     $.each(valorAtual, function(chave2, valorCampo){
 
-                            saidaResult += "<br />"+userName+";"+"Modelo_"+(chave+1)+";"+cabecalho[chave]+";";
+                            saidaResult += "<br />"+userName+";"+(chave2+1)+";"+cabecalho[chave]+";";
                             saidaResult += valorCampo+";";
                             saidaResult += diferencas[chave][chave2]+"";
 
