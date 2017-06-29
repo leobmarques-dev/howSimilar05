@@ -4,7 +4,8 @@
   <meta name="googlebot" content="noindex, nofollow">
 
   <script type="text/javascript" src="js/jquery.js"></script>
-   <script type="text/javascript" src="js/jsPanel/jquery.jspanel-compiled.js"></script>
+  <script type="text/javascript" src="js/jsPanel/jquery.jspanel-compiled.js"></script>
+  <script type="text/javascript" src="js/csvToJson.js"></script>
   <script type="text/javascript" src="js/damerau-levenshtein.js"></script>
   <script type="text/javascript" src="js/TrataDados.js"></script>
   <script type="text/javascript" src="js/DiferencaEntrePalavras.js"></script>
@@ -14,8 +15,7 @@
   <link rel="stylesheet" type="text/css" href="css/result-light.css">
   <link rel="stylesheet" type="text/css" href="js/jsPanel/jquery.jspanel.min.css">
 
-  <title>WordDistanceMeter</title>
-
+  <title>howSimilar - For recursive data</title>
   
 </head>
 
@@ -32,6 +32,21 @@
 
 
 <h3>COMPARADOR DE PALAVRAS - Distância Damerau-Levenshtein (HTML, JSON, ou lista e texto)</h3>
+
+  <h4>Cole aqui o texto no formato CSV (separado por ";")</h4>
+  ENTRADA CSV:<br /> <textarea id="csvInput"></textarea><br /><br />
+  SAIDA JSON:<br /> <textarea id="csvOutput"></textarea><br />
+
+  <p>
+  <h5>Modelo CSV para converter</h5>
+    TituloColuna1;TituloColuna2;TituloColuna3;TituloColuna4<br />
+    Val1Linha1Col1;Val2Linha1Col2;Val3Linha1Col3;Val4Linha1Col4;<br />
+    Val5Linha2Col1;Val6Linha2Col2;Val7Linha2Col3;Val8Linha2Col4;<br />
+    Val9Linha3Col1;Val10Linha3Col2;Val11Linha3Col3;Val12Linha3Col4;<br />
+    Val13Linha4Col1;Val14Linha4Col2;Val15Linha4Col3;Val16Linha4Col4;<br />
+  </p>
+
+  <p><h2> --- OU --- </h2></p>
 
 <p><span id="wordsDistances"><h4>Escolha o formato do resultado (output)</h4></span></p>
 
