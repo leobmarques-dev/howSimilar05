@@ -10,6 +10,8 @@ window.onload=function(){
         $("#compare2Words").show();
     });
 
+    $("#resultadosTextareas").hide();
+
     $("#btnCompare").click(function(){
         var word1 = $("#word1").val();
         var word2 = $("#word2").val();
@@ -18,7 +20,19 @@ window.onload=function(){
 // ======================================================================================================
 $("#btnLoadJSON").click(function(){
 
-    $("#wordsDistancesTbl").empty(); // Limpa o panel para 
+    $("#wordsDistancesTbl").empty(); // Limpa o panel para
+
+    var csvInput = $("#csvInput").val(); // Limpa o panel para
+        if (csvInput != ""){
+            function csvConvertidoObj() {
+                this.json;
+            }
+
+            csvConvertido = new csvConvertidoObj;
+            csvConvertido.json = csvJSON(csvInput); // Converte o CSV em JSON
+            $("#csvOutput").val(csvConvertido.json);
+            console.log(csvConvertido);
+        }
 
 // ==============================================================================================
 // ------------------------ VARIAVEIS PRINCIPAIS ------------------------------------------------
