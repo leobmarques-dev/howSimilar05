@@ -1,0 +1,212 @@
+{
+   "Modelo": {
+      "FIELD2": "08-05-2017_NJ",
+      "FIELD3": "09-05-2017_J",
+      "FIELD4": "11-05-2017_J",
+      "FIELD5": "15-05-2017_NJ",
+      "FIELD6": "19-05-2017_NJ",
+      "FIELD7": "23-05-2017_J",
+      "FIELD8": "25-05-2017_",
+      "FIELD9": "26-05-2017_"
+   },
+   "Polícia": {
+      "FIELD2": "-",
+      "FIELD3": "policia",
+      "FIELD4": "policia",
+      "FIELD5": "-",
+      "FIELD6": "policia",
+      "FIELD7": "-",
+      "FIELD8": "policia",
+      "FIELD9": "policia"
+   },
+   "Palha": {
+      "FIELD2": "-",
+      "FIELD3": "pala",
+      "FIELD4": "pola",
+      "FIELD5": " ",
+      "FIELD6": "pala",
+      "FIELD7": " ",
+      "FIELD8": "pala",
+      "FIELD9": "pala"
+   },
+   "Celeste": {
+      "FIELD2": "-",
+      "FIELD3": "celeste",
+      "FIELD4": "celeste",
+      "FIELD5": "-",
+      "FIELD6": "celeste",
+      "FIELD7": "-",
+      "FIELD8": "celeste",
+      "FIELD9": "celeste"
+   },
+   "Bicicleta": {
+      "FIELD2": "-",
+      "FIELD3": "biciceta",
+      "FIELD4": "biciqeta",
+      "FIELD5": "-",
+      "FIELD6": "biciqeta",
+      "FIELD7": "-",
+      "FIELD8": "biciqeta",
+      "FIELD9": "biciqeta"
+   },
+   "Calçada": {
+      "FIELD2": "-",
+      "FIELD3": "kcada",
+      "FIELD4": "kucada",
+      "FIELD5": "-",
+      "FIELD6": "cada",
+      "FIELD7": "-",
+      "FIELD8": "biciqeta",
+      "FIELD9": "biciqeta"
+   },
+   "Cigarra": {
+      "FIELD2": "-",
+      "FIELD3": "ci",
+      "FIELD4": "cicara",
+      "FIELD5": "-",
+      "FIELD6": "cigara",
+      "FIELD7": "-",
+      "FIELD8": "cigara",
+      "FIELD9": "cigara"
+   },
+   "Geleia": {
+      "FIELD2": "-",
+      "FIELD3": "gelcia",
+      "FIELD4": "geleia",
+      "FIELD5": "-",
+      "FIELD6": "gela",
+      "FIELD7": "-",
+      "FIELD8": "glia",
+      "FIELD9": "glia"
+   },
+   "Foguete": {
+      "FIELD2": "-",
+      "FIELD3": "fo",
+      "FIELD4": "cocrt",
+      "FIELD5": "-",
+      "FIELD6": "loge",
+      "FIELD7": "-",
+      "FIELD8": "fogete",
+      "FIELD9": "fogete"
+   },
+   "Galinha": {
+      "FIELD2": "-",
+      "FIELD3": "-",
+      "FIELD4": "caira",
+      "FIELD5": "-",
+      "FIELD6": "galiga",
+      "FIELD7": "-",
+      "FIELD8": "galica",
+      "FIELD9": "galia"
+   },
+   "Jiboia": {
+      "FIELD2": "-",
+      "FIELD3": "-",
+      "FIELD4": "cicora",
+      "FIELD5": "-",
+      "FIELD6": "giboica",
+      "FIELD7": "-",
+      "FIELD8": "giboia",
+      "FIELD9": "giboa"
+   },
+   "Cereja": {
+      "FIELD2": "-",
+      "FIELD3": "-",
+      "FIELD4": "cacrga",
+      "FIELD5": "-",
+      "FIELD6": "cereja",
+      "FIELD7": "-",
+      "FIELD8": "caeja",
+      "FIELD9": "cerega"
+   },
+   "Porta": {
+      "FIELD2": "-",
+      "FIELD3": "-",
+      "FIELD4": "pota",
+      "FIELD5": "-",
+      "FIELD6": "pota",
+      "FIELD7": "-",
+      "FIELD8": "pota",
+      "FIELD9": "pota"
+   },
+   "Quibe": {
+      "FIELD2": "-",
+      "FIELD3": "-",
+      "FIELD4": "qibe",
+      "FIELD5": "-",
+      "FIELD6": "qibe",
+      "FIELD7": "-",
+      "FIELD8": "qibe",
+      "FIELD9": "qibe"
+   },
+   "Mupoca": {
+      "FIELD2": "-",
+      "FIELD3": "-",
+      "FIELD4": "mupoca",
+      "FIELD5": "-",
+      "FIELD6": "mupoca",
+      "FIELD7": "-",
+      "FIELD8": "mupoca",
+      "FIELD9": "mupoca"
+   },
+   "Tabilu": {
+      "FIELD2": "-",
+      "FIELD3": "-",
+      "FIELD4": "tabilu",
+      "FIELD5": "-",
+      "FIELD6": "tabilu",
+      "FIELD7": "-",
+      "FIELD8": "tabilu",
+      "FIELD9": "tabilu"
+   },
+   "Bejovi": {
+      "FIELD2": "-",
+      "FIELD3": "-",
+      "FIELD4": "begu",
+      "FIELD5": "-",
+      "FIELD6": "bejuzi",
+      "FIELD7": "-",
+      "FIELD8": "beguvi",
+      "FIELD9": "beguvi"
+   },
+   "Tilbo": {
+      "FIELD2": "-",
+      "FIELD3": "-",
+      "FIELD4": "tiubo",
+      "FIELD5": "-",
+      "FIELD6": "tiubo",
+      "FIELD7": "-",
+      "FIELD8": "tibi",
+      "FIELD9": "tibu"
+   },
+   "Tonhulame": {
+      "FIELD2": "-",
+      "FIELD3": "-",
+      "FIELD4": "tola",
+      "FIELD5": "-",
+      "FIELD6": "toladilame",
+      "FIELD7": "-",
+      "FIELD8": "toulame",
+      "FIELD9": "toulame"
+   },
+   "Garulhi": {
+      "FIELD2": "-",
+      "FIELD3": "-",
+      "FIELD4": "gaui",
+      "FIELD5": "-",
+      "FIELD6": "garui",
+      "FIELD7": "-",
+      "FIELD8": "hui",
+      "FIELD9": "gau"
+   },
+   "Orturre": {
+      "FIELD2": "-",
+      "FIELD3": "-",
+      "FIELD4": "oturl",
+      "FIELD5": "-",
+      "FIELD6": "oute",
+      "FIELD7": "-",
+      "FIELD8": "oture",
+      "FIELD9": "oture"
+   }
+}
