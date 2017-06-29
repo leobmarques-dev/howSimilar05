@@ -1,0 +1,579 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cha",
+				"chave"
+			],
+			[
+				"resp",
+				"respArray"
+			],
+			[
+				"chave",
+				"chave2"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"valor",
+				"valorCampo"
+			],
+			[
+				"func",
+				"funcAnlzDist"
+			],
+			[
+				"c",
+				"chave3"
+			],
+			[
+				"cahve",
+				"chave2"
+			],
+			[
+				"reco",
+				"recorrente"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"scri",
+				"scriptDep"
+			],
+			[
+				"sai",
+				"saidaProPanel"
+			],
+			[
+				"said",
+				"saidaResultadoAnalise"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"ti",
+				"tipoSaida"
+			],
+			[
+				"DISTANCIA",
+				"distanciaCalculada"
+			],
+			[
+				"aR",
+				"Array"
+			],
+			[
+				"tipo",
+				"tipoAnalise"
+			],
+			[
+				"cos",
+				"console"
+			],
+			[
+				"result",
+				"resultTemp"
+			],
+			[
+				"resu",
+				"resultTemp"
+			],
+			[
+				"pala",
+				"palavrasModelo"
+			],
+			[
+				"dist",
+				"distancia"
+			],
+			[
+				"in",
+				"indexCount2"
+			],
+			[
+				"pla",
+				"palavrasModelo"
+			],
+			[
+				"item",
+				"itemCount2"
+			],
+			[
+				"res",
+				"respostasAluno"
+			],
+			[
+				"index",
+				"index2"
+			],
+			[
+				"data",
+				"dataSource"
+			],
+			[
+				"json",
+				"json"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"word",
+				"WordDistanceHTML"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3266,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/base.js",
+			"settings":
+			{
+				"buffer_size": 6795,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/DefineParametrosAnalise.js",
+			"settings":
+			{
+				"buffer_size": 1605,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/U/dev/apps/howSimilar05_ORiG/js/DiferencaEntrePalavras.js",
+			"settings":
+			{
+				"buffer_size": 2396,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 89.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/U/dev/apps/howSimilar05"
+	],
+	"file_history":
+	[
+		"/U/_ ORIENTAÇÕES/TCCs/2017 - Juliana Neves (Pedagogia)/Dados/distanciasDL/UFAL, TCC - Juliana Neves (2017) - Distancias Sondas (Aluno PH).csv",
+		"/U/_ ORIENTAÇÕES/TCCs/2017 - Juliana Neves (Pedagogia)/Dados/distanciasDL/UFAL, TCC - Juliana Neves (2017) - Distancias Sondas (Aluno F).csv",
+		"/U/_ ORIENTAÇÕES/TCCs/2017 - Juliana Neves (Pedagogia)/Dados/distanciasDL/UFAL, TCC - Juliana Neves (2017) - Distancias Sondas (Aluno AV).csv",
+		"/U/dev/apps/howSimilar05_ORiG/js/TrataDados.js",
+		"/U/_ ORIENTAÇÕES/TCCs/2017 - Juliana Neves (Pedagogia)/Dados/distanciasDL/UFAL, TCC - Juliana Neves (2017) - Distancias Sondas (Aluno A).csv",
+		"/U/dev/apps/howSimilar05/js/DiferencaEntrePalavras.js",
+		"/U/dev/apps/howSimilar05/js/TrataDados.js",
+		"/U/dev/apps/howSimilar05/data/sondas_aluno-PH.json",
+		"/U/dev/apps/howSimilar05/data/raw/UFAL, TCC - Juliana Neves (2017) - Sondas (Aluno PH).csv",
+		"/U/dev/apps/howSimilar05/data/sondas_aluno-F.json",
+		"/U/dev/apps/howSimilar05/data/raw/UFAL, TCC - Juliana Neves (2017) - Sondas (Aluno F).csv",
+		"/U/dev/apps/howSimilar05/data/sondas_aluno-AV.json",
+		"/U/dev/apps/howSimilar05/data/obj/sondas_aluno-PH.json",
+		"/U/dev/apps/howSimilar05/data/sondas_aluno-A.json",
+		"/U/dev/apps/howSimilar05/data/raw/UFAL, TCC - Juliana Neves (2017) - Sondas (Aluno AV).csv",
+		"/U/_ ORIENTAÇÕES/TCCs/2017 - Juliana Neves (Pedagogia)/Dados/UFAL, TCC - Juliana Neves (2017) - Sondas (Aluno PH).csv",
+		"/U/_ ORIENTAÇÕES/TCCs/2017 - Juliana Neves (Pedagogia)/Dados/UFAL, TCC - Juliana Neves (2017) - Sondas (Aluno F).csv",
+		"/U/_ ORIENTAÇÕES/TCCs/2017 - Juliana Neves (Pedagogia)/Dados/UFAL, TCC - Juliana Neves (2017) - Sondas (Aluno AV).csv",
+		"/U/_ ORIENTAÇÕES/TCCs/2017 - Juliana Neves (Pedagogia)/Dados/UFAL, TCC - Juliana Neves (2017) - Sondas (Aluno A).csv",
+		"/U/dev/apps/howSimilar05/js/trataDados.js",
+		"/U/dev/apps/howSimilar05/js/damerau-levenshtein.js",
+		"/U/dev/apps/howSimilar05/js/defineParametrosAnalise.js",
+		"/U/dev/apps/howSimilar05/js/test2.js",
+		"/U/dev/apps/howSimilar05/js/test1.js",
+		"/U/dev/apps/howSimilar05/js/base.js",
+		"/U/dev/apps/howSimilar05/howSimilar2.sublime-project",
+		"/U/dev/apps/howSimilar05/js/DiferencaEntrePalavras",
+		"/U/dev/apps/howSimilar05/data/preTeste_todosAlunos.json",
+		"/U/dev/apps/howSimilar05/js/defineParametrosAnalise",
+		"/U/dev/apps/howSimilar/js/damerau-levenshtein.js",
+		"/U/dev/apps/howSimilar/index.html",
+		"/U/dev/apps/howSimilar/js/base2.js",
+		"/U/dev/apps/howSimilar/data/sondas_aluno-A",
+		"/U/dev/apps/howSimilar/css/jquery.jspanel.css",
+		"/U/dev/apps/howSimilar/js/float-panel/float-panel.js",
+		"/U/dev/apps/compareWords/index.php",
+		"/U/dev/apps/howSimilar/libs/funcoes.php",
+		"/U/dev/apps/howSimilar/header.php",
+		"/U/dev/apps/howSimilar/js/dl_distance_exe.js",
+		"/U/dev/apps/compareWords/CHANGELOG.txt",
+		"/U/dev/apps/compareWords/js/base.js",
+		"/U/dev/apps/compareWords/levenshtein.php",
+		"/U/dev/apps/compareWords/header.php",
+		"/U/dev/apps/compareWords/libs/funcoes.php",
+		"/U/dev/bin/php/php.ini",
+		"/U/dev/apps/compareWords/lib/funcoes.php",
+		"/U/dev/apps/compareWords/footer.php",
+		"/U/dev/apps/compareWords/css/principal.css",
+		"/U/dev/apps/compareWords/manifest.json",
+		"/U/dev/apps/compareWords/css/principal.php",
+		"/U/dev/apps/compareWords/compareWords.sublime-workspace",
+		"/U/dev/apps/compareWords/compareWords.sublime-project",
+		"/U/dev/apps/compareWords/lib/funcoes",
+		"/U/dev/bin/php/php.ini-development",
+		"/U/dev/bin/php/php.ini-production",
+		"/C/dev/apps/AutismRegM/src/app/app.html",
+		"/C/dev/apps/AutismRegM/src/components/lista-bd/lista-bd.html",
+		"/C/dev/apps/AutismRegM/src/components/lista-bd/lista-bd.ts",
+		"/C/dev/apps/AutismRegM/src/pages/home/home.html",
+		"/C/dev/apps/AutismRegM/src/pages/home/home.ts",
+		"/C/dev/apps/AutismRegM/src/pages/cliente-novo/cliente-novo.ts",
+		"/C/dev/apps/AutismRegM/src/app/app.component.ts",
+		"/C/dev/apps/AutismRegM/src/app/app.module.ts",
+		"/C/dev/apps/AutismRegM/src/pages/cliente-novo/cliente-novo.html",
+		"/C/dev/apps/AutismRegM/src/components/lista-bd/lista-bd.module.ts",
+		"/C/dev/apps/AutismRegM/src/index.html",
+		"/C/dev/apps/mySuperApp/src/pages/list-master/list-master.ts",
+		"/C/dev/apps/mySuperApp/src/pages/list-master/list-master.html",
+		"/C/dev/apps/autismReg/src/pages/list-programs/list-program.html",
+		"/C/dev/apps/autismReg/www/index.html",
+		"/C/dev/apps/autismReg/src/pages/pages.ts",
+		"/C/dev/apps/autismReg/src/app/app.module.ts",
+		"/C/dev/apps/autismReg/src/app/app.component.ts",
+		"/C/dev/apps/autismReg/src/pages/list-programs/list-program.ts",
+		"/C/dev/apps/autismReg/src/pages/list-programs/list-program.scss",
+		"/C/dev/apps/autismReg/src/pages/list-master/README.md",
+		"/C/dev/apps/autismReg/ionic.config.json",
+		"/U/_ UFAL - Projetos Pesquisa/autismreg/index.html",
+		"/U/_ UFAL - Projetos Pesquisa/autismreg/dados_pacientes.js",
+		"/U/UFAL - Disciplinas/Desenvolvimento e Aprendizagem/Aulas/Aula 10 - Psicologia Genética (Piaget), Parte 02/Piaget (1964) Development and learning - ANOTAÇÔES",
+		"/U/UFAL - Disciplinas/Desenvolvimento e Aprendizagem/Aulas/Skinner/UFAL, CEDU - Evolução e Aprendizagem -- Skinner (Marques, 2016-2).txt",
+		"/C/Apps/xampp/webdav/siepsi2/topo.php",
+		"/L/Docência/FAMAM/Alfabetização e Letramento/Bibliografia/Reflexões sobre Alfabetização - Emilia Ferreiro (TV CCP - YouTube).srt",
+		"/C/Apps/EasyPHP1-8/www/siepsi2/cadastra_questoes.php",
+		"/C/Apps/xampp/webdav/siepsi2/ajax/login_request.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"DefineParametrosAnalise.js:41 ",
+			" = ",
+			"<==>",
+			"DiferencaEntrePalavras.js:42 ",
+			"formaSaida",
+			"saidaProPanel",
+			"js",
+			"panel",
+			"dataSource",
+			"tipoAnalise",
+			"respostasDados",
+			"saidaProPanel",
+			"dataProbe",
+			"outputType",
+			"respostasAluno",
+			"palavrasModelo",
+			"objWordsToCompare",
+			"trata",
+			"tipoAnalise",
+			"objWordsToCompare",
+			"respostasAluno",
+			"palavrasModelo",
+			"include_path=",
+			"C:\\WINDOWS",
+			"path",
+			"ListMasterPage",
+			"list-master"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			";",
+			"",
+			"JSONdataSource",
+			"saidaResult",
+			"respostasDados",
+			"cabecalhoDados",
+			"arrayWordsToCompare",
+			"respostasDado",
+			"cabecalhosDado",
+			"ListProgramPage",
+			"list-program"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3266,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1680,
+								1680
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 792.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/base.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6795,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3683,
+								3683
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 937.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/DefineParametrosAnalise.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1605,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								582,
+								582
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 288.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/U/dev/apps/howSimilar05_ORiG/js/DiferencaEntrePalavras.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2396,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								735,
+								735
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "howSimilar05.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 215.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
