@@ -48,7 +48,28 @@ function DiferencaEntrePalavras(cabecalho, respostaDados, tipoAnaliseParam, form
 			console.log("DefineParametrosAnalise() | Cabecalho Tratado: ", cabecalho);
 		break;		
 
+
+		case "optimalStringAlignmentDistance":
+			console.log(" - - - - - TIPO ANALISE: ",formaDadoResposta);
+
+
+			$.each(respostaDados, function(respArray, chave){
+
+				resultDistancias[chave] = Array(); // Cria sub Array para receber os resultados do respondente
+
+				$each(respArray, function(respVal, chave2){
+					
+					resultDistancias[chave][chave2] = optimalStringAlignmentDistance(cabecalho[chave], respostaDados[chave][chave2]);
+					// console.log(cabecalho[chave] +"<==>"+ respostaDados[chave][chave2] +" = "+ resultDistancias[chave][chave2]); // Confirmacao de que sao as mesmas palavras sendo analisadas
+
+				});
+			});
+
+			console.log("DefineParametrosAnalise() | Cabecalho Tratado: ", cabecalho);
+		break;		
+
 	} // END - switch(formaDadoResposta)
+
 
 	console.log("DefineParametrosAnalise() | Respostas : ", respostaDados);
 	console.log("DefineParametrosAnalise() | Distancias entre as palavras: ", resultDistancias);

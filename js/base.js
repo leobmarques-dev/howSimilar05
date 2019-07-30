@@ -73,6 +73,10 @@ $("#btnLoadJSON").click(function(){
                 switch(JSONdataSource){
 
                     // Caso o JSON dos dados seja de todos os alunos (linha == aluno & coluna == palavra)
+                    case "arle":
+                        dadoResposta = "recorrente";
+                    break;
+                    // Caso o JSON dos dados seja de todos os alunos (linha == aluno & coluna == palavra)
                     case "preTeste_todosAlunos":
                         dadoResposta = "unico";
                     break;
