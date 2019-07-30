@@ -12,8 +12,19 @@
   <script type="text/javascript" src="js/DefineParametrosAnalise.js"></script>  
   <script type="text/javascript" src="js/base.js"></script>
   
+ 
   <link rel="stylesheet" type="text/css" href="css/result-light.css">
   <link rel="stylesheet" type="text/css" href="js/jsPanel/jquery.jspanel.min.css">
+
+
+  <script>
+    $( document ).ready(function() {
+      $("#converteCSVtoJSON").toggle();
+      $("#showHide_converteCSVtoJSON").on("click", function () {
+        $("#converteCSVtoJSON").toggle();
+      });
+    });
+  </script> 
 
   <title>howSimilar - For recursive data</title>
   
@@ -31,31 +42,38 @@
   </div>
 
 
-<h3>COMPARADOR DE PALAVRAS - Distância Damerau-Levenshtein (HTML, JSON, ou lista e texto)</h3>
+<h2>COMPARADOR DE PALAVRAS</h2>
+<h3>Distância Damerau-Levenshtein </h3>
+<h4>Sa&iacute;das como HTML, JSON, lista (Array) ou texto (CSV)</h4>
 
+
+  <div id="converteCSVtoJSON">
   <h4>Cole aqui o texto no formato CSV (separado por ";")</h4>
   ENTRADA CSV:<br /> <textarea id="csvInput"></textarea><br /><br />
   SAIDA JSON:<br /> <textarea id="csvOutput"></textarea><br />
+    <p>
+    <h5>Modelo CSV para converter</h5>
+      TituloColuna1;TituloColuna2;TituloColuna3;TituloColuna4<br />
+      Val1Linha1Col1;Val2Linha1Col2;Val3Linha1Col3;Val4Linha1Col4;<br />
+      Val5Linha2Col1;Val6Linha2Col2;Val7Linha2Col3;Val8Linha2Col4;<br />
+      Val9Linha3Col1;Val10Linha3Col2;Val11Linha3Col3;Val12Linha3Col4;<br />
+      Val13Linha4Col1;Val14Linha4Col2;Val15Linha4Col3;Val16Linha4Col4;<br />
+    </p>
+  </div><a id="showHide_converteCSVtoJSON" href="#">converte CSV em JSON</a>
 
-  <p>
-  <h5>Modelo CSV para converter</h5>
-    TituloColuna1;TituloColuna2;TituloColuna3;TituloColuna4<br />
-    Val1Linha1Col1;Val2Linha1Col2;Val3Linha1Col3;Val4Linha1Col4;<br />
-    Val5Linha2Col1;Val6Linha2Col2;Val7Linha2Col3;Val8Linha2Col4;<br />
-    Val9Linha3Col1;Val10Linha3Col2;Val11Linha3Col3;Val12Linha3Col4;<br />
-    Val13Linha4Col1;Val14Linha4Col2;Val15Linha4Col3;Val16Linha4Col4;<br />
-  </p>
-
-  <p><h2> --- OU --- </h2></p>
+  <p><h3> Teste a comparação com os Exemplos abaixo </h3></p>
 
 <p><span id="wordsDistances"><h4>Escolha o formato do resultado (output)</h4></span></p>
 
 <p>
+<label for="tipoAnalise">Tipo de An&aacute;lise</label>
 <select id ="tipoAnalise">
   <option value="comRepOp">Com repetição de operação</option>
   <option value="semRepOp">Sem repetição de operação</option>
   <option value="optimalStringAlignmentDistance">optimalStringAlignmentDistance</option>
-</select>
+</select><br />
+
+<label for="tipoAnalise">Dados de Exemplo</label>
 <select id ="dataSource">
   <option value="arle">ARLE (Compara 1 Modelo com n  palavras)</option>
   <option value="preTeste_todosAlunos">Todos os alunos</option>
@@ -67,7 +85,9 @@
   <option value="sondas_aluno-GC">Aluno PH</option>
   <option value="sondas_aluno-AB">Aluno PH</option>
   <option value="sondas_aluno-AC">Aluno PH</option>
-</select>
+</select><br />
+
+<label for="tipoAnalise">Forma da Sa&iacute;da</label>
 <select id ="outputType">
   <option value="htmlTable">Tabela HTML</option>
   <option value="textList">Lista de texto</option>
@@ -75,7 +95,7 @@
   <option value="csv" selected>CSV</option>
 </select>
 <button id="btnLoadJSON">Compare</button>
-</p>
+</p><br />
 
   <!--// ------------- FORMATOS DE SAIDA DO RESULTADO ------------- //-->
   <div id="resultadosTextareas">
@@ -105,8 +125,5 @@
     }], "*")
   }
 </script>
-
-
-
 
 </body></html>
